@@ -58,4 +58,10 @@ Used for making HTTP requests to fetch movie posters from TMDb API.
 
 Used for serializing and deserializing Python objects such as movie data and similarity matrices.
 
+
+
+
+
+
+
 Overall, this project provides a content-based movie recommender system that allows users to discover movies based on their content similarities, such as shared genres or themes.
