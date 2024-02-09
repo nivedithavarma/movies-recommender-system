@@ -1,6 +1,6 @@
 # movies-recommender-system
 
-# Description:
+## Description:
 This project implements a movie recommender system that suggests similar movies based on the content of the selected movie. The system utilizes content-based recommendation techniques to recommend movies that share similar features or characteristics with the one chosen by the user.
 
 # Components:
