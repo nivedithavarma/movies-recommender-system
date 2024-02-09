@@ -62,6 +62,7 @@ Used for serializing and deserializing Python objects such as movie data and sim
 
 
 
+/n
 
 
 Overall, this project provides a content-based movie recommender system that allows users to discover movies based on their content similarities, such as shared genres or themes.
